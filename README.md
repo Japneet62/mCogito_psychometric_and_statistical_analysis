@@ -13,8 +13,9 @@
 6. Instrumental activities of daily living questionnaire - iADL 
 7. Figural reasoning task - FRT 
   
-###Script Description:
-##(Run the scripts in the order given below)
+### Script Description
+## (Run the scripts in the order given below)
+
 1.Run_scripts - shows the stepwise way to run different scripts to get the psychometric analysis of the list of tests given above.
 2. 4.data_restructing.R - data cleaning, restructuring, correcting variable names, removing missing data, setting path, getting libraries and other preprocessing steps. 
 5.descriptive_stats.R - 
